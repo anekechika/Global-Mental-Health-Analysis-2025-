@@ -10,20 +10,32 @@ Dataset
 Global mental health dataset
 Includes variables such as:
 
-• Country
-•	Mental health indicators
-•	Demographics
+•Country
+•Mental health indicators
+•Demographics
 
 Tools Used
 
-	•	Excel / Power Query (Data Cleaning)
+•Excel / Power Query (Data Cleaning)
   
-	•	Power BI (Data Visualization)
+•Power BI (Data Visualization)
 
-  Analysis Performed
+Analysis Performed
   
-	•	Trends in mental health indicators over time
+•Trends in mental health indicators over time
+
+•Comparison across countries and regions
   
-	•	Comparison across countries and regions
-  
-	•	Identification of high-risk groups
+•Identification of high-risk groups
+
+Key Insights
+
+•Certain regions show consistently higher mental health challenges
+
+•Trends indicate increasing awareness/reporting over time
+
+•Variations exist across demographics and regions
+
+Conclusion
+
+The analysis highlights the importance of targeted mental health interventions and data-driven policy decisions.
