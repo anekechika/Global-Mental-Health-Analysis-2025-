@@ -66,7 +66,7 @@ The interactive Power BI dashboard includes:
 ---
 
 ## 📊 Dashboard Preview
-*(Insert your Power BI dashboard screenshot here)*
+**
 
 ---
 
