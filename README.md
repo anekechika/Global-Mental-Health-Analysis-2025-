@@ -36,7 +36,7 @@ The goal of this analysis is to provide data-driven insights that can support be
 - Treatment effectiveness (therapy, medication, both, or none)  
 - Relationship between chronic illness and mental health outcomes  
 - Analysis of anxiety levels across the patient population  
-- Comparison of mental health outcomes by work status and age group  
+- Comparison of mental health outcomes by work status, age group, gender and country 
 
 ---
 
