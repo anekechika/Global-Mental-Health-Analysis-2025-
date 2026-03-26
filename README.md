@@ -26,7 +26,6 @@ The goal of this analysis is to provide data-driven insights that can support be
 
 ## 🛠 Tools & Technologies Used
 - **Microsoft Excel / Power Query** – Data cleaning and preprocessing  
-- **SQL** – Data querying and aggregation  
 - **Power BI** – Data visualization and dashboard development  
 
 ---
