@@ -66,7 +66,8 @@ The interactive Power BI dashboard includes:
 ---
 
 ## 📊 Dashboard Preview
-**
+<img width="1418" height="799" alt="Screenshot 2026-03-27 002959" src="https://github.com/user-attachments/assets/1c249713-5f48-4df8-bbe8-6541accc7779" />
+
 
 ---
 
