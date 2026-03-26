@@ -32,7 +32,7 @@ The goal of this analysis is to provide data-driven insights that can support be
 
 ## 📊 Key Analysis Performed
 - Distribution of mental health outcomes across different demographics  
-- Impact of physical activity and sleep on mental health  
+- Impact of physical activity on mental health  
 - Treatment effectiveness (therapy, medication, both, or none)  
 - Relationship between chronic illness and mental health outcomes  
 - Analysis of anxiety levels across the patient population  
