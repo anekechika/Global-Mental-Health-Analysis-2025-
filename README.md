@@ -86,7 +86,7 @@ This analysis highlights the importance of lifestyle factors, access to treatmen
 ---
 
 ## 🔗 Project Files
-- Dataset (CSV)
+- Dataset (.xlsx)
 - Power BI Dashboard (.pbix)
 
 ---
