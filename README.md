@@ -73,11 +73,13 @@ The interactive Power BI dashboard includes:
 ---
 
 ## 💡 Key Insights
-- Higher levels of physical activity are associated with better mental health outcomes  
-- Patients receiving treatment (especially therapy or combined treatment) show improved outcomes  
-- A significant proportion of patients experience moderate to severe anxiety levels  
-- Patients with chronic illnesses are more likely to experience poorer mental health outcomes, suggesting a strong link between physical and mental health conditions  
-- Work status and age group influence mental health patterns across the population  
+- The majority of individuals fall within the **“good” and “fair” mental health categories**, while a smaller proportion experience poor outcomes, indicating a moderate overall mental health distribution.
+- **Physical activity shows no strong or consistent relationship** with mental health outcomes in this dataset. Differences across activity levels are minimal, suggesting that other factors may play a more significant role.
+- Individuals receiving **therapy or combined treatment (therapy and medication)** tend to exhibit **better mental health outcomes**, highlighting the importance of access to structured mental health care.
+- The presence of **chronic illness is associated with poorer mental health outcomes**, reinforcing the link between physical and mental health conditions.
+- Mental health outcomes vary across **age groups and work status**, indicating that demographic and socioeconomic factors influence overall well-being.
+- A significant portion of the population experiences **moderate to severe anxiety levels**, suggesting a need for increased awareness and targeted interventions.
+- Overall, the findings suggest that **mental health outcomes are influenced by multiple interacting factors**, rather than a single dominant variable. 
 
 ---
 
