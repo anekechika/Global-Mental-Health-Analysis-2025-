@@ -52,9 +52,9 @@ The interactive Power BI dashboard includes:
 
 - **Visual Insights**
   - Mental health outcomes by physical activity & sleep
-  - Treatment effectiveness comparison
+  - Treatment effectiveness by outcome
   - Impact of chronic illness on outcomes
-  - Mental health outcomes by work status
+  - Mental health outcomes by selected category
   - Distribution of anxiety levels (donut chart)
 
 - **Interactive Filters (Slicers)**
@@ -62,6 +62,7 @@ The interactive Power BI dashboard includes:
   - Country
   - Gender
   - Work Status
+  - Outcome
 
 ---
 
@@ -75,7 +76,7 @@ The interactive Power BI dashboard includes:
 - Higher levels of physical activity are associated with better mental health outcomes  
 - Patients receiving treatment (especially therapy or combined treatment) show improved outcomes  
 - A significant proportion of patients experience moderate to severe anxiety levels  
-- Chronic illness appears to negatively impact mental health outcomes  
+- Patients with chronic illnesses are more likely to experience poorer mental health outcomes, suggesting a strong link between physical and mental health conditions  
 - Work status and age group influence mental health patterns across the population  
 
 ---
